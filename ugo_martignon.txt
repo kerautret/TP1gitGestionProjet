@@ -1,2 +1,2 @@
 nom github : gomarti
-lien github : github.com/gomarti
+lien github : https://github.com/gomarti/
